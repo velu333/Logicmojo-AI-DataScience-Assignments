@@ -1,48 +1,36 @@
-# Assignment 01 - Basic Python Programming
+# Assignment 01: Basic Python Programming
 
-**Student:** Velayutham Augustheesan  
-**Notebook:** `assignment_01_velayutham_augustheesan_basic_python_programming.ipynb`  
-**Environment:** Google Colab  
+This repository contains my solutions for **Assignment 01 – Basic Python Programming**.
 
----
+## Notebook
+
+The solutions are provided in a single Google Colab notebook:
+
+**File:** `assignment_01_velayutham_augustheesan_basic_python_programming.ipynb`
 
 ## Description
 
-This notebook contains solutions to Assignment 01 for Basic Python Programming, covering:
+The notebook contains Python programs for the following problems:
 
-- Strings, lists, dictionaries
-- Loops, conditionals, and functions
-- Use of Python modules (`collections`, `heapq`, `math`, `re`)
-- Input validation and error handling
+- Merge two sorted lists efficiently.
+- Find the student with the highest grade.
+- Check if two strings are anagrams.
+- Rotate a list by a given number of positions.
+- Group products by category.
+- Generate Pascal's Triangle.
+- Reverse words in a sentence.
+- Count words in a sentence.
+- Print prime numbers up to n.
+- Count vowels in a sentence.
+- Find the second largest number in a list.
 
-Each solution includes docstrings, type hints, and example/test cases.
-
----
-
-## Problems Solved
-
-1. Count words in a sentence  
-2. Reverse words in a sentence  
-3. Count vowels in a string  
-4. Find the second largest number in a list  
-5. Merge two sorted lists  
-6. Generate Pascal's Triangle  
-7. Group products by category  
-8. Rotate a list by k positions  
-9. Check if two strings are anagrams  
-10. Find the student with the highest grade  
-11. Print all prime numbers up to n  
-
----
+Each problem includes input validation, clear function definitions, and example outputs.
 
 ## Usage
 
-- Open in **Google Colab** or **Jupyter Notebook**.  
-- Run each cell to execute the code and see the outputs.  
-- Functions include validation and example inputs.
+1. Open the notebook in Google Colab or Jupyter Notebook.
+2. Run each cell sequentially to see the outputs.
 
----
+## Author
 
-## License
-
-Educational purposes only.
+**Velayutham Augustheesan**
