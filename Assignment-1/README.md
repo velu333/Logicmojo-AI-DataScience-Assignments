@@ -1,40 +1,37 @@
-# Python Assignment Solutions
+# Assignment 01 - Basic Python Programming
 
-This repository contains solutions to a set of Python programming problems. The solutions are implemented in a **Google Colab notebook** and cover a variety of topics including data structures, string manipulation, math problems, and algorithmic exercises.
+**Student Name:** Velayutham Augustheesan  
+**Assignment:** 01  
+**Course/Subject:** Basic Python Programming  
+**Notebook:** `assignment_01_velayutham_augustheesan_basic_python_programming.ipynb`  
+**Environment:** Google Colab  
 
-## Contents
+---
 
-- `assignment_solutions.ipynb` – Google Colab notebook containing all problem solutions, explanations, and example runs.
+## Description
 
-## Problem Topics Covered
+This notebook contains solutions to the first assignment for **Basic Python Programming**. The problems focus on fundamental Python concepts including:
 
-1. String manipulation and analysis  
-   - Checking anagrams  
-   - Reversing words in a sentence  
-   - Counting vowels and word frequencies  
+- Data types and type validation
+- Loops and conditionals
+- Functions and modular programming
+- List, dictionary, and string manipulations
+- Use of Python built-in modules (`collections`, `heapq`, `math`, `re`)
+- Error handling and input validation
 
-2. List and number operations  
-   - Rotating a list  
-   - Finding the second largest number  
-   - Merging sorted lists  
-   - Generating Pascal’s Triangle  
+Each problem is implemented as a function with clear docstrings, type hints, and inline comments. Test cases are included to validate the correctness of the functions.
 
-3. Math and algorithmic problems  
-   - Prime numbers  
-   - Other utility functions  
+---
 
-Each problem is implemented as a separate function with proper input validation, documentation, and example usage.
+## List of Problems Covered
 
-## How to Use
-
-1. Open the notebook directly in Google Colab:
-
-[Open in Colab](link-to-your-colab-notebook)
-
-2. Or download the notebook and run locally in Jupyter:
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-jupyter notebook assignment_solutions.ipynb
-
+1. Count words in a sentence  
+2. Reverse words in a sentence  
+3. Count vowels in a string  
+4. Find the second largest number in a list  
+5. Merge two sorted lists  
+6. Generate Pascal's Triangle  
+7. Group products by category  
+8. Rotate a list by k positions  
+9. Check if two strings are anagrams  
+10. Find the student
