@@ -2,11 +2,9 @@
 
 This repository contains my Python notebook and an utility script file, demonstrating the array manipulations capabilities of the NumPy library.
 
-## Notebook
+Notebook
 
-The solutions are provided in a single Google Colab notebook:
-
-**File:** python\_utilities\_velayutham\_augustheesan.ipynb
+The solutions are provided in a single Google Colab notebook Assignment_02_velayutham_augustheesan_NumPy.ipynb along with the input_utils.py file.
 
 ## Description
 
