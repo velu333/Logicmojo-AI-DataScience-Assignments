@@ -28,7 +28,7 @@ Each task includes input validation, clear function definitions, and example out
 
 ## Usage
 
-* Download both the notebook (`python_utilities_velayutham_augustheesan.ipynb`) and `input_utils.py` into the same directory.
+* Download both the notebook (`Assignment_02_Velayutham_Augustheesan_NumPy.ipynb `) and `input_utils.py` into the same directory.
 * Open the notebook in Google Colab or Jupyter Notebook.
 * Run each cell sequentially to see the outputs.
 * The notebook already contains the necessary imports for using `input_utils.py`.
