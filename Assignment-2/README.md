@@ -1,6 +1,6 @@
-# Assignment: Python Utilities
+# Assignment: Python NumPy Library
 
-This repository contains my Python scripts and notebooks demonstrating array manipulations and modular coding practices.
+This repository contains my Python notebook and an utility script file, demonstrating the array manipulations capabilities of the NumPy library.
 
 ## Notebook
 
