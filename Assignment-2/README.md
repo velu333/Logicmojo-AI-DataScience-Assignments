@@ -4,7 +4,7 @@ This repository contains my Python notebook and an utility script file, demonstr
 
 Notebook
 
-The solutions are provided in a single Google Colab notebook Assignment_02_velayutham_augustheesan_NumPy.ipynb along with the input_utils.py file.
+The solutions are provided in a single Google Colab notebook Assignment_02_Velayutham_Augustheesan_NumPy.ipynb along with the input_utils.py file.
 
 ## Description
 
