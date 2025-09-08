@@ -4,7 +4,7 @@ This repository contains my Python notebook and an utility script file, demonstr
 
 Notebook
 
-The solutions are provided in a single Google Colab notebook Assignment_02_Velayutham_Augustheesan_NumPy.ipynb along with the input_utils.py file.
+The solutions are provided in a single Google Colab notebook assignment_02_velayutham_augustheesan_numpy.ipynb along with the input_utils.py file.
 
 ## Description
 
@@ -28,7 +28,7 @@ Each task includes input validation, clear function definitions, and example out
 
 ## Usage
 
-* Download both the notebook (`Assignment_02_Velayutham_Augustheesan_NumPy.ipynb `) and `input_utils.py` into the same directory.
+* Download both the notebook (`assignment_02_velayutham_augustheesan_numpy.ipynb `) and `input_utils.py` into the same directory.
 * Open the notebook in Google Colab or Jupyter Notebook.
 * Run each cell sequentially to see the outputs.
 * The notebook already contains the necessary imports for using `input_utils.py`.
