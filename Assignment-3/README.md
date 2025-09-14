@@ -38,7 +38,7 @@ Assignment-3/
    git clone https://github.com/velu33/Logicmojo-AI-DataScience-Assignments.git
    ```
 2. Open the notebook:  
-   [assignment-03-velayutham_augustheesan_pandas.ipynb](/assignment-03-velayutham_augustheesan_pandas.ipynb)  
+   [assignment-03-velayutham_augustheesan_pandas.ipynb](./Assignment-3/assignment-03-velayutham_augustheesan_pandas.ipynb)  
 3. Download and ensure `input_utils.py` is in the same directory as the notebook:
    [input_utils.py](./input_utils.py)
 4. Ensure the dataset is available in:  
