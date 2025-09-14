@@ -17,7 +17,7 @@ Assignment-3/
 ---
 
 ## 🔍 Tasks Covered
-1. Import **pandas** and read `population_by_county.csv` into a dataframe called `pop`.  
+1. Import **pandas** and read `population_by_county.csv` into a dataframe called `population_df`.  
 2. Display the **head** of the dataframe and the **top 8 rows** using `.head(8)`.  
 3. List all **column names**.  
 4. Count the number of **unique states** in the dataset.  
