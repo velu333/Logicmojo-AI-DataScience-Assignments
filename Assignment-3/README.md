@@ -35,7 +35,7 @@ Assignment-3/
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone https://github.com/velu33/Logicmojo-AI-DataScience-Assignments.git
    ```
 2. Open the notebook:  
    [assignment-03-velayutham_augustheesan_pandas.ipynb](./assignment-03-velayutham_augustheesan_pandas.ipynb)  
