@@ -91,7 +91,7 @@ pint
 
 3. Open the notebook:
    ```bash
-   jupyter notebook assignment_04_velayutham_augustheesan_python_oops.ipynb
+   jupyter notebook assignment_04_velayutham_augustheesan_python_oop.ipynb
    ```
 
 4. Run the cells to see implementations and test outputs.
