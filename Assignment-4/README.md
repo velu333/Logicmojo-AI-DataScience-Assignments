@@ -80,7 +80,7 @@ pint
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Logicmojo-AI-DataScience-Assignments.git
+   git clone https://github.com/velu333/Logicmojo-AI-DataScience-Assignments.git
    cd Logicmojo-AI-DataScience-Assignments/Assignment-4
    ```
 
